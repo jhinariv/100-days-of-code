@@ -7,3 +7,11 @@
 **Thoughts:** I worked the first five exercises proposed, and i feeling very good because was very easy by me, and I'm surprised.
 
 **Link to work:** [Exercises](http://www.pythondiario.com/2013/05/ejercicios-en-python-parte-1.html)
+
+### Day 2: January 4, 2020
+
+**Today's Progress**: Python, worked on basic exercises, part 2.
+
+**Thoughts:** I worked the last five exercises proposed, and included the option of write the text by console for each function..
+
+**Link to work:** [Exercises](http://www.pythondiario.com/2013/05/ejercicios-en-python-parte-1.html)
