@@ -8,4 +8,7 @@ The log of my #100DaysOfCode challenge. Started on January 3, Friday, 2020.
 Python, worked on basic exercises.
 
 ### R1D2
-Python, worked on basic exercises, part 2.
+Python, worked on basic exercises.
+
+### R1D3
+Python, worked on basic exercises.
