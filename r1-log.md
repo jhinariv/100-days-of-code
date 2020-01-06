@@ -12,3 +12,6 @@ Python, worked on basic exercises.
 
 ### R1D3
 Python, worked on basic exercises.
+
+### R1D4
+Python, worked on date and datetime.
