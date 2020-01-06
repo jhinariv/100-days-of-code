@@ -23,3 +23,14 @@
 **Thoughts:** I worked the first exercise proposed, and completed the conditions en the function max_three().
 
 **Link to work:** [Exercises](http://www.pythondiario.com/2013/05/ejercicios-en-python-parte-2.html)
+
+### Day 4: January 6, 2020
+
+**Today's Progress**: Python, worked on date and datetime.
+
+**Thoughts:** I worked with the module datetime, applied differents operations with the current date.
+
+**Link to work:** [Code](https://github.com/jhinariv/100DaysOfCode/blob/master/R1/Python/datetime_date.py)
+
+
+
