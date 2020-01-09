@@ -21,3 +21,6 @@ Python, worked on datetime and timedelta.
 
 ### R1D6
 Python, worked on datetime and timedelta.
+
+### R1D7
+Python, worked on collections module.

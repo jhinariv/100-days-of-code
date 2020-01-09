@@ -48,3 +48,11 @@
 **Thoughts:** I worked with the module timedelta, applied operations to the current date.
 
 **Link to work:** [Code](https://github.com/jhinariv/100DaysOfCode/blob/master/R1/Python/datetime_date.py)
+
+### Day 7: January 9, 2020
+
+**Today's Progress**: Python, worked on collections module.
+
+**Thoughts:** I read about collections module, and understanded that this module is only avalible by console, tomorrow read more about why work of this way.
+
+**Link to work:** [Code](https://github.com/jhinariv/100DaysOfCode/blob/master/R1/Python/datetime_date.py)
