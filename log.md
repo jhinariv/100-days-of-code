@@ -55,4 +55,34 @@
 
 **Thoughts:** I read about collections module, and understanded that this module is only avalible by console, tomorrow read more about why work of this way.
 
-**Link to work:** [Code](https://github.com/jhinariv/100DaysOfCode/blob/master/R1/Python/datetime_date.py)
+### Day 8: January 10, 2020
+
+**Today's Progress**: Python, worked on collections module.
+
+**Thoughts:** I read about collections module, finally understanded this module.
+
+**Link to work:** [Code](https://github.com/jhinariv/100DaysOfCode/blob/master/R1/Python/collections_n.py)
+
+### Day 9: January 11, 2020
+
+**Today's Progress**: Python, worked on collections module.
+
+**Thoughts:** I worked the modules namedtuple and deque.
+
+**Link to work:** [Code](https://github.com/jhinariv/100DaysOfCode/blob/master/R1/Python/collections_n.py)
+
+### Day 10: January 12, 2020
+
+**Today's Progress**: Python, worked on collections module.
+
+**Thoughts:** I worked the modules Counter and ChainMap.
+
+**Link to work:** [Code](https://github.com/jhinariv/100DaysOfCode/blob/master/R1/Python/collections_n.py)
+
+### Day 11: January 13, 2020
+
+**Today's Progress**: Python, worked on collections module.
+
+**Thoughts:** I worked the module OrderedDict.
+
+**Link to work:** [Code](https://github.com/jhinariv/100DaysOfCode/blob/master/R1/Python/collections_n.py)

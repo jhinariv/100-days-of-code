@@ -24,3 +24,15 @@ Python, worked on datetime and timedelta.
 
 ### R1D7
 Python, worked on collections module.
+
+### R1D8
+Python, worked on collections module.
+
+### R1D9
+Python, worked on collections module.
+
+### R1D10
+Python, worked on collections module.
+
+### R1D11
+Python, worked on collections module.
